@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "UBERDEVICES/proprietary_vendor_essential",
+    "target_path": "vendor/essential",
+    "branch": "master"
+  },
+  {
+    "repository": "UBERDEVICES/kernel_essential_msm8998",
+    "target_path": "kernel/essential/msm8998",
+    "branch": "master"
+  },
+  {
+    "repository": "UBERDEVICES/kernel_essential_msm8998_drivers_staging_fw-api",
+    "target_path": "kernel/essential/msm8998/drivers/staging/fw-api",
+    "branch": "master"
+  },
+  {
+    "repository": "UBERDEVICES/kernel_essential_msm8998_drivers_staging_qca-wifi-host-cmn",
+    "target_path": "kernel/essential/msm8998/drivers/staging/qca-wifi-host-cmn",
+    "branch": "master"
+  },
+  {
+    "repository": "UBERDEVICES/kernel_essential_msm8998_drivers_staging_qcacld-3.0",
+    "target_path": "kernel/essential/msm8998/drivers/staging/qcacld-3.0",
+    "branch": "master"
+  },
+  {
+    "repository": "UBERCAF/vendor_qcom_opensource_location",
+    "target_path": "vendor/qcom/opensource/location",
+    "branch": "master"
+  }
+]
