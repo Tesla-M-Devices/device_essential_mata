@@ -5,9 +5,9 @@
     "branch": "n7.1"
   },
   {
-    "repository": "UBERDEVICES/kernel_essential_msm8998",
+    "repository": "GZR-Kernels/kernel_essential_msm8998",
     "target_path": "kernel/essential/msm8998",
-    "branch": "master"
+    "branch": "n7.1"
   },
   {
     "repository": "UBERDEVICES/kernel_essential_msm8998_drivers_staging_fw-api",
