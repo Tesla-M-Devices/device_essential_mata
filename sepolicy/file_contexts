@@ -1,9 +1,7 @@
 /data/misc/netmgr(/.*)?            u:object_r:netmgr_data_file:s0
 
-/dev/block/bootdevice/by-name/mdtp_[ab]                         u:object_r:mdtp_device:s0
-
-# A/B partitions
-/dev/block/platform/soc/1da4000.ufshc/by-name/nvdef_[ab]        u:object_r:custom_ab_block_device:s0
+/dev/block/bootdevice/by-name/mdtp_a                            u:object_r:mdtp_device:s0
+/dev/block/bootdevice/by-name/mdtp_b                            u:object_r:mdtp_device:s0
 
 # UFS Devices
 /dev/block/platform/soc/1da4000.ufshc/by-name/persist           u:object_r:persist_block_device:s0
