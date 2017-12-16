@@ -1,8 +1,8 @@
 [
   {
-    "repository": "UBERDEVICES/proprietary_vendor_essential",
+    "repository": "BigTopKrazies/proprietary_vendor_essential",
     "target_path": "vendor/essential",
-    "branch": "master"
+    "branch": "n7.1"
   },
   {
     "repository": "UBERDEVICES/kernel_essential_msm8998",
