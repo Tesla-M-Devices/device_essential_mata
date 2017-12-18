@@ -25,6 +25,11 @@
     "branch": "master"
   },
   {
+    "repository": "invisiblek/android_vendor_qcom_opensource_location",		
+    "target_path": "vendor/qcom/opensource/location",		
+    "branch": "cm14-1"
+  },
+  {
     "repository": "LineageOs/android_vendor_nxp-nfc_opensource_frameworks",
     "target_path": "vendor/nxp-nfc/opensource/frameworks",
     "branch": "cm-14.1"
